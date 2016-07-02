@@ -4,21 +4,21 @@ This library adds autowiring support to the Spring Boot framework.
 
 ## Usage
 
-Just add the dependency to maven/gradle, like this:
+The project is currently hosted on bintray:
 
-@TODO: I STILL NEED TO UPLOAD TO MAVEN CENTRAL
+https://bintray.com/jacobbeasley/maven/spring-autowire-memcached/view
 
 Maven:
 
     <dependency>
       <groupId>com.beasley</groupId>
-      <artifactId>memcachedexample</artifactId>
+      <artifactId>spring-autowire-memcached</artifactId>
       <version>0.0.1</version>
     </dependency>
 
 Gradle:
 
-    compile 'com.beasley:memcachedexample:0.0.1'
+    compile 'com.beasley:spring-autowire-memcached:0.0.1'
 
 Then, tell spring boot to component scan the "com.beasley.memcached" package
 
