@@ -4,12 +4,25 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.beasley</groupId>
-	<artifactId>memcachedexample</artifactId>
+	<artifactId>spring-autowire-memcached</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>memcachedexample</name>
 	<description>Demo project for Spring Boot</description>
+	<url>https://github.com/jacobbeasley/spring-autowire-memcached</url>
+
+	<scm>
+		<url>https://github.com/jacobbeasley/spring-autowire-memcached</url>
+	</scm>
+
+	<licenses>
+		<license>
+			<name>The MIT License (MIT)</name>
+			<url>https://github.com/jacobbeasley/spring-autowire-memcached/blob/master/LICENSE</url>
+			<comments>Free to use and distribute, but you must give me credit (no plagiarizing) </comments>
+		</license>
+	</licenses>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>

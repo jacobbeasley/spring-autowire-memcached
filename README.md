@@ -62,4 +62,5 @@ integration tests like this...
 
 ## More information
 
-Checkout
+Checkout https://github.com/jacobbeasley/spring-autowire-memcached for the latest code and issues
+
