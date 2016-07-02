@@ -8,7 +8,7 @@
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
-	<name>memcachedexample</name>
+	<name>spring-autowire-memcached</name>
 	<description>Demo project for Spring Boot</description>
 	<url>https://github.com/jacobbeasley/spring-autowire-memcached</url>
 
